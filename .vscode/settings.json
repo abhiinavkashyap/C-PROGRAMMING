@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "SCANFPRINTF.C": "cpp"
+        "SCANFPRINTF.C": "cpp",
+        "1.C": "cpp"
     }
 }
